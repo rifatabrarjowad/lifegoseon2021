@@ -1,0 +1,6 @@
+D:\try\lifegoseon2021\csharp\AppTry\AppTry\AppTry.Android\obj\Debug\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
+D:\try\lifegoseon2021\csharp\AppTry\AppTry\AppTry.Android\obj\Debug\120\build.props
+D:\try\lifegoseon2021\csharp\AppTry\AppTry\AppTry.Android\obj\Debug\120\adb.props
+D:\try\lifegoseon2021\csharp\AppTry\AppTry\AppTry.Android\obj\Debug\120\AppTry.Android.csproj.AssemblyReference.cache
+D:\try\lifegoseon2021\csharp\AppTry\AppTry\AppTry.Android\obj\Debug\120\stamp\_BuildLibraryImportsCache.stamp
+D:\try\lifegoseon2021\csharp\AppTry\AppTry\AppTry.Android\obj\Debug\120\res.flag
