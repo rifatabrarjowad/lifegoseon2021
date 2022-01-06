@@ -1,0 +1,2 @@
+D:\try\lifegoseon2021\csharp\AppTry2\AppTry2\AppTry2.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\try\lifegoseon2021\csharp\AppTry2\AppTry2\AppTry2.Android\obj\Debug\81\AppTry2.Android.csprojAssemblyReference.cache
