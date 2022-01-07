@@ -1,8 +1,0 @@
-E:\lifegoseon2021\csharp\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
-E:\lifegoseon2021\csharp\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
-E:\lifegoseon2021\csharp\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
-E:\lifegoseon2021\csharp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
-E:\lifegoseon2021\csharp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
-E:\lifegoseon2021\csharp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
-E:\lifegoseon2021\csharp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
-E:\lifegoseon2021\csharp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
