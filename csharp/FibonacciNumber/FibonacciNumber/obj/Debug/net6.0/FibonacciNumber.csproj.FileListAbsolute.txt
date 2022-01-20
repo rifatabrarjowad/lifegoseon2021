@@ -1,0 +1,15 @@
+D:\try\lifegoseon2021\csharp\FibonacciNumber\FibonacciNumber\bin\Debug\net6.0\FibonacciNumber.exe
+D:\try\lifegoseon2021\csharp\FibonacciNumber\FibonacciNumber\bin\Debug\net6.0\FibonacciNumber.deps.json
+D:\try\lifegoseon2021\csharp\FibonacciNumber\FibonacciNumber\bin\Debug\net6.0\FibonacciNumber.runtimeconfig.json
+D:\try\lifegoseon2021\csharp\FibonacciNumber\FibonacciNumber\bin\Debug\net6.0\FibonacciNumber.dll
+D:\try\lifegoseon2021\csharp\FibonacciNumber\FibonacciNumber\bin\Debug\net6.0\ref\FibonacciNumber.dll
+D:\try\lifegoseon2021\csharp\FibonacciNumber\FibonacciNumber\bin\Debug\net6.0\FibonacciNumber.pdb
+D:\try\lifegoseon2021\csharp\FibonacciNumber\FibonacciNumber\obj\Debug\net6.0\FibonacciNumber.csproj.AssemblyReference.cache
+D:\try\lifegoseon2021\csharp\FibonacciNumber\FibonacciNumber\obj\Debug\net6.0\FibonacciNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\try\lifegoseon2021\csharp\FibonacciNumber\FibonacciNumber\obj\Debug\net6.0\FibonacciNumber.AssemblyInfoInputs.cache
+D:\try\lifegoseon2021\csharp\FibonacciNumber\FibonacciNumber\obj\Debug\net6.0\FibonacciNumber.AssemblyInfo.cs
+D:\try\lifegoseon2021\csharp\FibonacciNumber\FibonacciNumber\obj\Debug\net6.0\FibonacciNumber.csproj.CoreCompileInputs.cache
+D:\try\lifegoseon2021\csharp\FibonacciNumber\FibonacciNumber\obj\Debug\net6.0\FibonacciNumber.dll
+D:\try\lifegoseon2021\csharp\FibonacciNumber\FibonacciNumber\obj\Debug\net6.0\ref\FibonacciNumber.dll
+D:\try\lifegoseon2021\csharp\FibonacciNumber\FibonacciNumber\obj\Debug\net6.0\FibonacciNumber.pdb
+D:\try\lifegoseon2021\csharp\FibonacciNumber\FibonacciNumber\obj\Debug\net6.0\FibonacciNumber.genruntimeconfig.cache
