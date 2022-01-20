@@ -17,7 +17,7 @@
         // driver code
         public static void Main(string[] args)
         {
-            int n = 4;
+            int n = 6;
             Console.Write(Fib(n));
         }
     }
