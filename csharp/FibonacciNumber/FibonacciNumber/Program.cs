@@ -2,23 +2,29 @@
 {
     public class Program
     {
-        public static int Fib(int n)
-        {
-            if (n <= 1)
-            {
-                return n;
-            }
-            else
-            {
-                return Fib(n - 1) + Fib(n - 2);
-            }
-        }
+       
 
         // driver code
         public static void Main(string[] args)
         {
-            int n = 6;
-            Console.Write(Fib(n));
+            int n = 1;
+            int i =4;
+            while (n <= i)
+            {
+                if (n <= 1)
+                {
+                    Console.WriteLine(n);
+                    
+                }
+                else
+                {
+                    Console.WriteLine(n);
+                    
+                }
+
+                n++;
+            }
+           // Console.Write(Fib(n));
         }
     }
 }
