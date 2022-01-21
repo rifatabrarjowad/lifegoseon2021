@@ -17,8 +17,16 @@
 
             if (n <= 2)
             {
-                Console.WriteLine(stNmber);
-                Console.WriteLine(ndNumber);
+                if (n <= 1)
+                {
+                    Console.WriteLine(stNmber);
+                }
+                else
+                {
+                    Console.WriteLine(stNmber);
+                    Console.WriteLine(ndNumber);
+                }
+                
 
             }
             else
