@@ -8,8 +8,9 @@
         public static void Main(string[] args)
         {
             Console.WriteLine("How much Fibonaci Number");
-       
-            int n=3;
+            int number = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("OK Here is output...");
+            int n=number;
             int stNmber = 0;
             int ndNumber = 1;
             
