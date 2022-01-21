@@ -3,47 +3,29 @@
     public class Program
     {
 
+        public void disply()
+        {
+
+        }
 
         // driver code
         public static void Main(string[] args)
         {
-            Console.WriteLine("How much Fibonaci Number");
-            int number = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("OK Here is output...");
-            int n=number;
-            int stNmber = 0;
-            int ndNumber = 1;
-            
+             Console.Write(FindNthFib(5));
+        }
 
-            if (n <= 2)
+        static int FindNthFib(int nth)
+        {
+            if (nth == 1)
             {
-                if (n <= 1)
-                {
-                    Console.WriteLine(stNmber);
-                }
-                else
-                {
-                    Console.WriteLine(stNmber);
-                    Console.WriteLine(ndNumber);
-                }
-                
-
+                return 0;
             }
-            else
+            else if (nth == 2)
             {
-                Console.WriteLine(stNmber);
-                Console.WriteLine(ndNumber);
-                for (int i =1 ; i<=n-2; i++) {
-                    
-                    var temNumber = stNmber + ndNumber;
-                    Console.WriteLine(temNumber);
-                    stNmber = ndNumber;
-                    ndNumber = temNumber;
-                }
+                return 1;
             }
 
-
-            // Console.Write(Fib(n));
+            return FindNthFib(nth - 2) +  FindNthFib(nth - 1);       
         }
     }
 }
