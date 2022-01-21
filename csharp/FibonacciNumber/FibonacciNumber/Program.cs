@@ -2,29 +2,39 @@
 {
     public class Program
     {
-       
+
 
         // driver code
         public static void Main(string[] args)
         {
-            int n = 1;
-            int i =4;
-            while (n <= i)
-            {
-                if (n <= 1)
-                {
-                    Console.WriteLine(n);
-                    
-                }
-                else
-                {
-                    Console.WriteLine(n);
-                    
-                }
+            Console.WriteLine("How much Fibonaci Number");
+       
+            int n=3;
+            int stNmber = 0;
+            int ndNumber = 1;
+            
 
-                n++;
+            if (n <= 2)
+            {
+                Console.WriteLine(stNmber);
+                Console.WriteLine(ndNumber);
+
             }
-           // Console.Write(Fib(n));
+            else
+            {
+                Console.WriteLine(stNmber);
+                Console.WriteLine(ndNumber);
+                for (int i =1 ; i<=n-2; i++) {
+                    
+                    var temNumber = stNmber + ndNumber;
+                    Console.WriteLine(temNumber);
+                    stNmber = ndNumber;
+                    ndNumber = temNumber;
+                }
+            }
+
+
+            // Console.Write(Fib(n));
         }
     }
 }
