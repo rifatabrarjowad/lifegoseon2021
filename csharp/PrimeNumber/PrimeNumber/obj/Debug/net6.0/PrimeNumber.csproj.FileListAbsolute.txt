@@ -1,0 +1,15 @@
+D:\try\lifegoseon2021\csharp\PrimeNumber\PrimeNumber\bin\Debug\net6.0\PrimeNumber.exe
+D:\try\lifegoseon2021\csharp\PrimeNumber\PrimeNumber\bin\Debug\net6.0\PrimeNumber.deps.json
+D:\try\lifegoseon2021\csharp\PrimeNumber\PrimeNumber\bin\Debug\net6.0\PrimeNumber.runtimeconfig.json
+D:\try\lifegoseon2021\csharp\PrimeNumber\PrimeNumber\bin\Debug\net6.0\PrimeNumber.dll
+D:\try\lifegoseon2021\csharp\PrimeNumber\PrimeNumber\bin\Debug\net6.0\ref\PrimeNumber.dll
+D:\try\lifegoseon2021\csharp\PrimeNumber\PrimeNumber\bin\Debug\net6.0\PrimeNumber.pdb
+D:\try\lifegoseon2021\csharp\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.csproj.AssemblyReference.cache
+D:\try\lifegoseon2021\csharp\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\try\lifegoseon2021\csharp\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.AssemblyInfoInputs.cache
+D:\try\lifegoseon2021\csharp\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.AssemblyInfo.cs
+D:\try\lifegoseon2021\csharp\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.csproj.CoreCompileInputs.cache
+D:\try\lifegoseon2021\csharp\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.dll
+D:\try\lifegoseon2021\csharp\PrimeNumber\PrimeNumber\obj\Debug\net6.0\ref\PrimeNumber.dll
+D:\try\lifegoseon2021\csharp\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.pdb
+D:\try\lifegoseon2021\csharp\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.genruntimeconfig.cache
