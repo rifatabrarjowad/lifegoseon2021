@@ -12,7 +12,7 @@
         public static void Main(string[] args)
         {
            
-            Console.Write(FindNthFib(5));
+            Console.Write(FindNthFib(2147483647));
            
         }
 
@@ -32,7 +32,11 @@
             {
                 Console.WriteLine("It's deffret");
             }
-            else if ((stNumber == 0) || (ndNumber == 0) || (rdNumber == 0) || (thnumber == 0) || (fthnumber == 0) )
+            else if ((prime == 2) || (prime == 3) || (prime ==5) || (prime == 7))
+            {
+                Console.WriteLine("It's prime number");
+            }
+            else if ((stNumber != 0) && (ndNumber != 0) & (rdNumber != 0) & (thnumber != 0) & (fthnumber != 0) )
             {
                 Console.WriteLine("It's prime number");
             }
