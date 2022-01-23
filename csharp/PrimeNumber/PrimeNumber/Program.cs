@@ -13,23 +13,34 @@
         {
            
             Console.Write(FindNthFib(5));
-            var mbox = 5.56;
-            var d = mbox.GetType();
-            Console.WriteLine(d);
+           
         }
 
         static int FindNthFib(int prime)
         {
-            var stNumber = prime/2;
-            var ndNumber = prime/3;
-            var rdNumber = prime/5;
-            if (prime == 0) {
+            var stNumber = prime%2;
+            var ndNumber = prime%3;
+            var rdNumber = prime % 5;
+            var thnumber = prime % 6;
+            var fthnumber = prime % 7;
+            if (prime <= 0)
+            {
 
                 Console.WriteLine("It's deffret");
-            }else if (prime == 1) {
-                
             }
-                 return prime;
+            else if (prime == 1)
+            {
+                Console.WriteLine("It's deffret");
+            }
+            else if ((stNumber == 0) || (ndNumber == 0) || (rdNumber == 0) || (thnumber == 0) || (fthnumber == 0) )
+            {
+                Console.WriteLine("It's prime number");
+            }
+            else
+            {
+                Console.WriteLine("It's not a prime number");
+            }
+            return prime ;
         }
     }
 }
