@@ -12,39 +12,41 @@
         public static void Main(string[] args)
         {
            
-            Console.Write(FindNthFib(2147483647));
+            Console.Write(FindNthFib(7));
            
         }
 
-        static int FindNthFib(int prime)
+        static int FindNthFib(int n)
         {
-            var stNumber = prime%2;
-            var ndNumber = prime%3;
-            var rdNumber = prime % 5;
-            var thnumber = prime % 6;
-            var fthnumber = prime % 7;
-            if (prime <= 0)
+             int i, flag =0;
+            for (i = 2; i <= n / 2; ++i)
             {
 
-                Console.WriteLine("It's deffret");
+                // if n is divisible by i, then n is not prime
+                // change flag to 1 for non-prime number
+                if (n % i == 0)
+                {
+                    flag = 1;
+                    break;
+                }
             }
-            else if (prime == 1)
+
+            // 0 and 1 are not prime numbers
+            if ((n == 0) || (n == 1))
             {
-                Console.WriteLine("It's deffret");
-            }
-            else if ((prime == 2) || (prime == 3) || (prime ==5) || (prime == 7))
-            {
-                Console.WriteLine("It's prime number");
-            }
-            else if ((stNumber != 0) && (ndNumber != 0) & (rdNumber != 0) & (thnumber != 0) & (fthnumber != 0) )
-            {
-                Console.WriteLine("It's prime number");
+                Console.WriteLine(n + " is neither prime nor composite.");
             }
             else
             {
-                Console.WriteLine("It's not a prime number");
+
+                // flag is 0 for prime numbers
+                if (flag == 0)
+                    Console.WriteLine(n + " is a prime number.");
+                else
+                    Console.WriteLine(n + " is not a prime number.");
             }
-            return prime ;
+
+            return 0;
         }
     }
 }
