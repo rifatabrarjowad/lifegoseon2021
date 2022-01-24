@@ -12,13 +12,13 @@
         public static void Main(string[] args)
         {
            
-            Console.Write(FindNthFib(7));
+            Console.Write(FindNthFib(0));
            
         }
 
         static int FindNthFib(int n)
         {
-             int i, flag =0;
+             int i, flag =5;
             for (i = 2; i <= n / 2; ++i)
             {
 
