@@ -1,0 +1,15 @@
+D:\try\lifegoseon2021\csharp\methodCall\methodCall\bin\Debug\net6.0\methodCall.exe
+D:\try\lifegoseon2021\csharp\methodCall\methodCall\bin\Debug\net6.0\methodCall.deps.json
+D:\try\lifegoseon2021\csharp\methodCall\methodCall\bin\Debug\net6.0\methodCall.runtimeconfig.json
+D:\try\lifegoseon2021\csharp\methodCall\methodCall\bin\Debug\net6.0\methodCall.dll
+D:\try\lifegoseon2021\csharp\methodCall\methodCall\bin\Debug\net6.0\ref\methodCall.dll
+D:\try\lifegoseon2021\csharp\methodCall\methodCall\bin\Debug\net6.0\methodCall.pdb
+D:\try\lifegoseon2021\csharp\methodCall\methodCall\obj\Debug\net6.0\methodCall.csproj.AssemblyReference.cache
+D:\try\lifegoseon2021\csharp\methodCall\methodCall\obj\Debug\net6.0\methodCall.GeneratedMSBuildEditorConfig.editorconfig
+D:\try\lifegoseon2021\csharp\methodCall\methodCall\obj\Debug\net6.0\methodCall.AssemblyInfoInputs.cache
+D:\try\lifegoseon2021\csharp\methodCall\methodCall\obj\Debug\net6.0\methodCall.AssemblyInfo.cs
+D:\try\lifegoseon2021\csharp\methodCall\methodCall\obj\Debug\net6.0\methodCall.csproj.CoreCompileInputs.cache
+D:\try\lifegoseon2021\csharp\methodCall\methodCall\obj\Debug\net6.0\methodCall.dll
+D:\try\lifegoseon2021\csharp\methodCall\methodCall\obj\Debug\net6.0\ref\methodCall.dll
+D:\try\lifegoseon2021\csharp\methodCall\methodCall\obj\Debug\net6.0\methodCall.pdb
+D:\try\lifegoseon2021\csharp\methodCall\methodCall\obj\Debug\net6.0\methodCall.genruntimeconfig.cache
