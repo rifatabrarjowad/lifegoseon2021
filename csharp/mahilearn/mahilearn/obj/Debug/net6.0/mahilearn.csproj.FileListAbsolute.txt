@@ -1,0 +1,15 @@
+D:\try\lifegoseon2021\csharp\mahilearn\mahilearn\bin\Debug\net6.0\mahilearn.exe
+D:\try\lifegoseon2021\csharp\mahilearn\mahilearn\bin\Debug\net6.0\mahilearn.deps.json
+D:\try\lifegoseon2021\csharp\mahilearn\mahilearn\bin\Debug\net6.0\mahilearn.runtimeconfig.json
+D:\try\lifegoseon2021\csharp\mahilearn\mahilearn\bin\Debug\net6.0\mahilearn.dll
+D:\try\lifegoseon2021\csharp\mahilearn\mahilearn\bin\Debug\net6.0\ref\mahilearn.dll
+D:\try\lifegoseon2021\csharp\mahilearn\mahilearn\bin\Debug\net6.0\mahilearn.pdb
+D:\try\lifegoseon2021\csharp\mahilearn\mahilearn\obj\Debug\net6.0\mahilearn.csproj.AssemblyReference.cache
+D:\try\lifegoseon2021\csharp\mahilearn\mahilearn\obj\Debug\net6.0\mahilearn.GeneratedMSBuildEditorConfig.editorconfig
+D:\try\lifegoseon2021\csharp\mahilearn\mahilearn\obj\Debug\net6.0\mahilearn.AssemblyInfoInputs.cache
+D:\try\lifegoseon2021\csharp\mahilearn\mahilearn\obj\Debug\net6.0\mahilearn.AssemblyInfo.cs
+D:\try\lifegoseon2021\csharp\mahilearn\mahilearn\obj\Debug\net6.0\mahilearn.csproj.CoreCompileInputs.cache
+D:\try\lifegoseon2021\csharp\mahilearn\mahilearn\obj\Debug\net6.0\mahilearn.dll
+D:\try\lifegoseon2021\csharp\mahilearn\mahilearn\obj\Debug\net6.0\ref\mahilearn.dll
+D:\try\lifegoseon2021\csharp\mahilearn\mahilearn\obj\Debug\net6.0\mahilearn.pdb
+D:\try\lifegoseon2021\csharp\mahilearn\mahilearn\obj\Debug\net6.0\mahilearn.genruntimeconfig.cache

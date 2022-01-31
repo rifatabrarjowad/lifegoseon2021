@@ -11,7 +11,7 @@
         // driver code
         public static void Main(string[] args)
         {
-             Console.Write(FindNthFib(5));
+             Console.Write(FindNthFib(6));
         }
 
         static int FindNthFib(int nth)
