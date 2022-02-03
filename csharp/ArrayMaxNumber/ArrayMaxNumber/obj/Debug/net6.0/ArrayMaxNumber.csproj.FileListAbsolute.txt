@@ -1,0 +1,15 @@
+D:\try\lifegoseon2021\csharp\ArrayMaxNumber\ArrayMaxNumber\bin\Debug\net6.0\ArrayMaxNumber.exe
+D:\try\lifegoseon2021\csharp\ArrayMaxNumber\ArrayMaxNumber\bin\Debug\net6.0\ArrayMaxNumber.deps.json
+D:\try\lifegoseon2021\csharp\ArrayMaxNumber\ArrayMaxNumber\bin\Debug\net6.0\ArrayMaxNumber.runtimeconfig.json
+D:\try\lifegoseon2021\csharp\ArrayMaxNumber\ArrayMaxNumber\bin\Debug\net6.0\ArrayMaxNumber.dll
+D:\try\lifegoseon2021\csharp\ArrayMaxNumber\ArrayMaxNumber\bin\Debug\net6.0\ref\ArrayMaxNumber.dll
+D:\try\lifegoseon2021\csharp\ArrayMaxNumber\ArrayMaxNumber\bin\Debug\net6.0\ArrayMaxNumber.pdb
+D:\try\lifegoseon2021\csharp\ArrayMaxNumber\ArrayMaxNumber\obj\Debug\net6.0\ArrayMaxNumber.csproj.AssemblyReference.cache
+D:\try\lifegoseon2021\csharp\ArrayMaxNumber\ArrayMaxNumber\obj\Debug\net6.0\ArrayMaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\try\lifegoseon2021\csharp\ArrayMaxNumber\ArrayMaxNumber\obj\Debug\net6.0\ArrayMaxNumber.AssemblyInfoInputs.cache
+D:\try\lifegoseon2021\csharp\ArrayMaxNumber\ArrayMaxNumber\obj\Debug\net6.0\ArrayMaxNumber.AssemblyInfo.cs
+D:\try\lifegoseon2021\csharp\ArrayMaxNumber\ArrayMaxNumber\obj\Debug\net6.0\ArrayMaxNumber.csproj.CoreCompileInputs.cache
+D:\try\lifegoseon2021\csharp\ArrayMaxNumber\ArrayMaxNumber\obj\Debug\net6.0\ArrayMaxNumber.dll
+D:\try\lifegoseon2021\csharp\ArrayMaxNumber\ArrayMaxNumber\obj\Debug\net6.0\ref\ArrayMaxNumber.dll
+D:\try\lifegoseon2021\csharp\ArrayMaxNumber\ArrayMaxNumber\obj\Debug\net6.0\ArrayMaxNumber.pdb
+D:\try\lifegoseon2021\csharp\ArrayMaxNumber\ArrayMaxNumber\obj\Debug\net6.0\ArrayMaxNumber.genruntimeconfig.cache

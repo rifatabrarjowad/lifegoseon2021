@@ -1,0 +1,14 @@
+D:\try\lifegoseon2021\csharp\task\task\bin\Debug\net6.0\task.exe
+D:\try\lifegoseon2021\csharp\task\task\bin\Debug\net6.0\task.deps.json
+D:\try\lifegoseon2021\csharp\task\task\bin\Debug\net6.0\task.runtimeconfig.json
+D:\try\lifegoseon2021\csharp\task\task\bin\Debug\net6.0\task.dll
+D:\try\lifegoseon2021\csharp\task\task\bin\Debug\net6.0\ref\task.dll
+D:\try\lifegoseon2021\csharp\task\task\bin\Debug\net6.0\task.pdb
+D:\try\lifegoseon2021\csharp\task\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\try\lifegoseon2021\csharp\task\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+D:\try\lifegoseon2021\csharp\task\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+D:\try\lifegoseon2021\csharp\task\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+D:\try\lifegoseon2021\csharp\task\task\obj\Debug\net6.0\task.dll
+D:\try\lifegoseon2021\csharp\task\task\obj\Debug\net6.0\ref\task.dll
+D:\try\lifegoseon2021\csharp\task\task\obj\Debug\net6.0\task.pdb
+D:\try\lifegoseon2021\csharp\task\task\obj\Debug\net6.0\task.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c835cc51-c6fe-4074-a3d1-6154e52f0501": {
+      "ProjectGuid": "c835cc51-c6fe-4074-a3d1-6154e52f0501",
+      "DisplayName": "ArrayMaxNumber",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
