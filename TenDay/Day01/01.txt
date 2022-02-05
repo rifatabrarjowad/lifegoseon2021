@@ -1,0 +1,16 @@
+html:
+1) h1
+2) p
+3) span
+4) div
+css:
+1) colors
+2) background color
+3) text align:center
+4) width
+5) height
+6) font size
+7) font family
+8) font weight
+9) font style
+10) text decoration
