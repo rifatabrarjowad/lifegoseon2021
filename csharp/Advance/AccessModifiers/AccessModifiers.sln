@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessModifiers\AccessModifiers.csproj", "{DBA1EE99-3FF6-4F8A-B019-30AA7FC80A9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Access", "Access\Access.csproj", "{8F9D9168-EE72-405C-9436-37C4273C1284}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA1EE99-3FF6-4F8A-B019-30AA7FC80A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA1EE99-3FF6-4F8A-B019-30AA7FC80A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA1EE99-3FF6-4F8A-B019-30AA7FC80A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA1EE99-3FF6-4F8A-B019-30AA7FC80A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F9D9168-EE72-405C-9436-37C4273C1284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F9D9168-EE72-405C-9436-37C4273C1284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F9D9168-EE72-405C-9436-37C4273C1284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F9D9168-EE72-405C-9436-37C4273C1284}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C581D547-0233-4ACA-B19B-F0A6D1ACFA7F}
+	EndGlobalSection
+EndGlobal

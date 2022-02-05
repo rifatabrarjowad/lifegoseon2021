@@ -12,3 +12,4 @@ D:\try\lifegoseon2021\csharp\task\task\obj\Debug\net6.0\task.dll
 D:\try\lifegoseon2021\csharp\task\task\obj\Debug\net6.0\ref\task.dll
 D:\try\lifegoseon2021\csharp\task\task\obj\Debug\net6.0\task.pdb
 D:\try\lifegoseon2021\csharp\task\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+D:\try\lifegoseon2021\csharp\task\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
