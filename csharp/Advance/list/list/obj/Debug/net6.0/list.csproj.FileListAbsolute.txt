@@ -1,0 +1,15 @@
+D:\try\lifegoseon2021\csharp\Advance\list\list\bin\Debug\net6.0\list.exe
+D:\try\lifegoseon2021\csharp\Advance\list\list\bin\Debug\net6.0\list.deps.json
+D:\try\lifegoseon2021\csharp\Advance\list\list\bin\Debug\net6.0\list.runtimeconfig.json
+D:\try\lifegoseon2021\csharp\Advance\list\list\bin\Debug\net6.0\list.dll
+D:\try\lifegoseon2021\csharp\Advance\list\list\bin\Debug\net6.0\ref\list.dll
+D:\try\lifegoseon2021\csharp\Advance\list\list\bin\Debug\net6.0\list.pdb
+D:\try\lifegoseon2021\csharp\Advance\list\list\obj\Debug\net6.0\list.csproj.AssemblyReference.cache
+D:\try\lifegoseon2021\csharp\Advance\list\list\obj\Debug\net6.0\list.GeneratedMSBuildEditorConfig.editorconfig
+D:\try\lifegoseon2021\csharp\Advance\list\list\obj\Debug\net6.0\list.AssemblyInfoInputs.cache
+D:\try\lifegoseon2021\csharp\Advance\list\list\obj\Debug\net6.0\list.AssemblyInfo.cs
+D:\try\lifegoseon2021\csharp\Advance\list\list\obj\Debug\net6.0\list.csproj.CoreCompileInputs.cache
+D:\try\lifegoseon2021\csharp\Advance\list\list\obj\Debug\net6.0\list.dll
+D:\try\lifegoseon2021\csharp\Advance\list\list\obj\Debug\net6.0\ref\list.dll
+D:\try\lifegoseon2021\csharp\Advance\list\list\obj\Debug\net6.0\list.pdb
+D:\try\lifegoseon2021\csharp\Advance\list\list\obj\Debug\net6.0\list.genruntimeconfig.cache
