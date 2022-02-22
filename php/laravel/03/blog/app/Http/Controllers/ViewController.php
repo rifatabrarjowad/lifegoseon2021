@@ -8,6 +8,6 @@ class ViewController extends Controller
 {
     //
     function MyName($nameValue){
-        return $nameValue;
+        return "<h1>".$nameValue."</h1>";
     }
 }
