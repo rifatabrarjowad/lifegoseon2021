@@ -8,5 +8,6 @@ namespace Class
 {
     internal class Class1
     {
+      
     }
 }
