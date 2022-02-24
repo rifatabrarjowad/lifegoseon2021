@@ -1,0 +1,12 @@
+D:\try\lifegoseon2021\csharp\Blezor\01\Bismillah\ServerSide\Shared\bin\Debug\net6.0\ServerSide.Shared.deps.json
+D:\try\lifegoseon2021\csharp\Blezor\01\Bismillah\ServerSide\Shared\bin\Debug\net6.0\ServerSide.Shared.dll
+D:\try\lifegoseon2021\csharp\Blezor\01\Bismillah\ServerSide\Shared\bin\Debug\net6.0\ref\ServerSide.Shared.dll
+D:\try\lifegoseon2021\csharp\Blezor\01\Bismillah\ServerSide\Shared\bin\Debug\net6.0\ServerSide.Shared.pdb
+D:\try\lifegoseon2021\csharp\Blezor\01\Bismillah\ServerSide\Shared\obj\Debug\net6.0\ServerSide.Shared.csproj.AssemblyReference.cache
+D:\try\lifegoseon2021\csharp\Blezor\01\Bismillah\ServerSide\Shared\obj\Debug\net6.0\ServerSide.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\try\lifegoseon2021\csharp\Blezor\01\Bismillah\ServerSide\Shared\obj\Debug\net6.0\ServerSide.Shared.AssemblyInfoInputs.cache
+D:\try\lifegoseon2021\csharp\Blezor\01\Bismillah\ServerSide\Shared\obj\Debug\net6.0\ServerSide.Shared.AssemblyInfo.cs
+D:\try\lifegoseon2021\csharp\Blezor\01\Bismillah\ServerSide\Shared\obj\Debug\net6.0\ServerSide.Shared.csproj.CoreCompileInputs.cache
+D:\try\lifegoseon2021\csharp\Blezor\01\Bismillah\ServerSide\Shared\obj\Debug\net6.0\ServerSide.Shared.dll
+D:\try\lifegoseon2021\csharp\Blezor\01\Bismillah\ServerSide\Shared\obj\Debug\net6.0\ref\ServerSide.Shared.dll
+D:\try\lifegoseon2021\csharp\Blezor\01\Bismillah\ServerSide\Shared\obj\Debug\net6.0\ServerSide.Shared.pdb

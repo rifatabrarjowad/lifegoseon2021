@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ViewController;
 use App\Http\Controllers\DemoController;
+use App\Http\Controllers\PhotoController;
 
 /*
 |--------------------------------------------------------------------------
@@ -29,5 +30,6 @@ Route::group(['prefix' => 'account'], function () {
 Route::get('/', function () {
     return view('welcome');
 });
+Route::resource('/photo', PhotoController::class );
 Route::get('/name/{nameValue}',[ViewController::class, 'MyName']);
 Route::get('/demo/{firstName}/{lastName}/',[DemoController::class, 'DemoName']);

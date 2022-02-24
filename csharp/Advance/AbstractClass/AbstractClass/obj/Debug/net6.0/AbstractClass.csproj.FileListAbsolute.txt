@@ -1,0 +1,15 @@
+D:\try\lifegoseon2021\csharp\Advance\AbstractClass\AbstractClass\bin\Debug\net6.0\AbstractClass.exe
+D:\try\lifegoseon2021\csharp\Advance\AbstractClass\AbstractClass\bin\Debug\net6.0\AbstractClass.deps.json
+D:\try\lifegoseon2021\csharp\Advance\AbstractClass\AbstractClass\bin\Debug\net6.0\AbstractClass.runtimeconfig.json
+D:\try\lifegoseon2021\csharp\Advance\AbstractClass\AbstractClass\bin\Debug\net6.0\AbstractClass.dll
+D:\try\lifegoseon2021\csharp\Advance\AbstractClass\AbstractClass\bin\Debug\net6.0\ref\AbstractClass.dll
+D:\try\lifegoseon2021\csharp\Advance\AbstractClass\AbstractClass\bin\Debug\net6.0\AbstractClass.pdb
+D:\try\lifegoseon2021\csharp\Advance\AbstractClass\AbstractClass\obj\Debug\net6.0\AbstractClass.csproj.AssemblyReference.cache
+D:\try\lifegoseon2021\csharp\Advance\AbstractClass\AbstractClass\obj\Debug\net6.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\try\lifegoseon2021\csharp\Advance\AbstractClass\AbstractClass\obj\Debug\net6.0\AbstractClass.AssemblyInfoInputs.cache
+D:\try\lifegoseon2021\csharp\Advance\AbstractClass\AbstractClass\obj\Debug\net6.0\AbstractClass.AssemblyInfo.cs
+D:\try\lifegoseon2021\csharp\Advance\AbstractClass\AbstractClass\obj\Debug\net6.0\AbstractClass.csproj.CoreCompileInputs.cache
+D:\try\lifegoseon2021\csharp\Advance\AbstractClass\AbstractClass\obj\Debug\net6.0\AbstractClass.dll
+D:\try\lifegoseon2021\csharp\Advance\AbstractClass\AbstractClass\obj\Debug\net6.0\ref\AbstractClass.dll
+D:\try\lifegoseon2021\csharp\Advance\AbstractClass\AbstractClass\obj\Debug\net6.0\AbstractClass.pdb
+D:\try\lifegoseon2021\csharp\Advance\AbstractClass\AbstractClass\obj\Debug\net6.0\AbstractClass.genruntimeconfig.cache
