@@ -15,3 +15,8 @@ use App\Http\Controllers\SelectController;
 */
 
 Route::get('/', [SelectController::class, 'SelectData']);
+Route::post('/insertData', [SelectController::class, 'InsertData']);
+Route::post('/deleteData', [SelectController::class, 'DeleteData']);
+Route::get('/insert', function () {
+    return view('insert');
+});
