@@ -168,6 +168,33 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\01.dir\build.make CMakeFiles/01.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+programe.obj: programe.cpp.obj
+
+.PHONY : programe.obj
+
+# target to build an object file
+programe.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\01.dir\build.make CMakeFiles/01.dir/programe.cpp.obj
+.PHONY : programe.cpp.obj
+
+programe.i: programe.cpp.i
+
+.PHONY : programe.i
+
+# target to preprocess a source file
+programe.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\01.dir\build.make CMakeFiles/01.dir/programe.cpp.i
+.PHONY : programe.cpp.i
+
+programe.s: programe.cpp.s
+
+.PHONY : programe.s
+
+# target to generate assembly for a file
+programe.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\01.dir\build.make CMakeFiles/01.dir/programe.cpp.s
+.PHONY : programe.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -180,6 +207,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... programe.obj
+	@echo ... programe.i
+	@echo ... programe.s
 .PHONY : help
 
 

@@ -1,6 +1,10 @@
 #include <iostream>
+#include <conio.h>
+using namespace std;
 
 int main() {
-    std::cout << "Rifat!" << std::endl;
-    return 0;
+    int number = 5;
+    cout << number;
+
+    getch();
 }
