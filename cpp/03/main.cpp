@@ -9,6 +9,5 @@ int main()
 {
 
 
-    WhoAreYou ob1;
 return 0;
 }

@@ -6,17 +6,17 @@
 
 #IncludeRegexTransform: 
 
-D:/try/lifegoseon2021/cpp/03/cmake-build-debug/WhoAreYou.cpp
+D:/try/lifegoseon2021/cpp/03/cmake-build-debug/WhoAreYou.h
 WhoAreYou.h
 D:/try/lifegoseon2021/cpp/03/cmake-build-debug/WhoAreYou.h
+
+D:/try/lifegoseon2021/cpp/03/main.cpp
 iostream
 -
 stdio.h
 -
 conio.h
 -
-
-D:/try/lifegoseon2021/cpp/03/cmake-build-debug/WhoAreYou.h
-WhoAreYou.h
+cmake-build-debug/WhoAreYou.h
 D:/try/lifegoseon2021/cpp/03/cmake-build-debug/WhoAreYou.h
 
