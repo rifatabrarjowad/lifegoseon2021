@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/try/lifegoseon2021/cpp/03/cmake-build-debug/WhoAreYou.cpp
+WhoAreYou.h
+D:/try/lifegoseon2021/cpp/03/cmake-build-debug/WhoAreYou.h
+iostream
+-
+stdio.h
+-
+conio.h
+-
+
+D:/try/lifegoseon2021/cpp/03/cmake-build-debug/WhoAreYou.h
+WhoAreYou.h
+D:/try/lifegoseon2021/cpp/03/cmake-build-debug/WhoAreYou.h
+

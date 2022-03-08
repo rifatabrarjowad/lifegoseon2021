@@ -66,10 +66,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\try\lifegoseon2021\cpp\01
+CMAKE_SOURCE_DIR = D:\try\lifegoseon2021\cpp\03
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\try\lifegoseon2021\cpp\01\cmake-build-debug
+CMAKE_BINARY_DIR = D:\try\lifegoseon2021\cpp\03\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -98,9 +98,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\try\lifegoseon2021\cpp\01\cmake-build-debug\CMakeFiles D:\try\lifegoseon2021\cpp\01\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\try\lifegoseon2021\cpp\03\cmake-build-debug\CMakeFiles D:\try\lifegoseon2021\cpp\03\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\try\lifegoseon2021\cpp\01\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\try\lifegoseon2021\cpp\03\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -129,17 +129,44 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named 01
+# Target rules for targets named 03
 
 # Build rule for target.
-01: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 01
-.PHONY : 01
+03: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 03
+.PHONY : 03
 
 # fast build rule for target.
-01/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\01.dir\build.make CMakeFiles/01.dir/build
-.PHONY : 01/fast
+03/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\03.dir\build.make CMakeFiles/03.dir/build
+.PHONY : 03/fast
+
+WhoAreYou.obj: WhoAreYou.cpp.obj
+
+.PHONY : WhoAreYou.obj
+
+# target to build an object file
+WhoAreYou.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\03.dir\build.make CMakeFiles/03.dir/WhoAreYou.cpp.obj
+.PHONY : WhoAreYou.cpp.obj
+
+WhoAreYou.i: WhoAreYou.cpp.i
+
+.PHONY : WhoAreYou.i
+
+# target to preprocess a source file
+WhoAreYou.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\03.dir\build.make CMakeFiles/03.dir/WhoAreYou.cpp.i
+.PHONY : WhoAreYou.cpp.i
+
+WhoAreYou.s: WhoAreYou.cpp.s
+
+.PHONY : WhoAreYou.s
+
+# target to generate assembly for a file
+WhoAreYou.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\03.dir\build.make CMakeFiles/03.dir/WhoAreYou.cpp.s
+.PHONY : WhoAreYou.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -147,7 +174,7 @@ main.obj: main.cpp.obj
 
 # target to build an object file
 main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\01.dir\build.make CMakeFiles/01.dir/main.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\03.dir\build.make CMakeFiles/03.dir/main.cpp.obj
 .PHONY : main.cpp.obj
 
 main.i: main.cpp.i
@@ -156,7 +183,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\01.dir\build.make CMakeFiles/01.dir/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\03.dir\build.make CMakeFiles/03.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -165,7 +192,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\01.dir\build.make CMakeFiles/01.dir/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\03.dir\build.make CMakeFiles/03.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -176,7 +203,10 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... 01
+	@echo ... 03
+	@echo ... WhoAreYou.obj
+	@echo ... WhoAreYou.i
+	@echo ... WhoAreYou.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

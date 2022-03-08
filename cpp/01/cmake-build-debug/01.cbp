@@ -85,12 +85,6 @@
 		<Unit filename="D:/try/lifegoseon2021/cpp/01/main.cpp">
 			<Option target="01"/>
 		</Unit>
-		<Unit filename="D:/try/lifegoseon2021/cpp/01/programe.cpp">
-			<Option target="01"/>
-		</Unit>
-		<Unit filename="D:/try/lifegoseon2021/cpp/01/programe.h">
-			<Option target="01"/>
-		</Unit>
 		<Unit filename="D:/try/lifegoseon2021/cpp/01/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
